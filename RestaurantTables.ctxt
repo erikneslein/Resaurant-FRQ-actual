@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RestaurantTables
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RestaurantTables\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=tableNum\ foods\ prices
+comment1.target=void\ placeTableOrders(int,\ java.lang.String[],\ double[])
+comment2.params=tableNum
+comment2.target=double\ totalBill(int)
+comment3.params=tableNum
+comment3.target=double\ computeTip(int)
+numComments=4
